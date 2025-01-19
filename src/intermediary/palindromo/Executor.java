@@ -1,6 +1,10 @@
-package palindromo;
+package intermediary.palindromo;
 
 import java.util.Scanner;
+
+/*
+Verifique se uma palavra ou frase fornecida pelo usuário é um palíndromo (desconsidere espaços e maiúsculas/minúsculas).
+ */
 
 public class Executor {
 

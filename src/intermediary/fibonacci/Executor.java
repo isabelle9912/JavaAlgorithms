@@ -3,6 +3,10 @@ package intermediary.fibonacci;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*
+Gere os primeiros nn números da sequência de Fibonacci.
+ */
+
 public class Executor {
 
     public static final Scanner sc = new Scanner(System.in);
