@@ -13,7 +13,7 @@ public class Executor {
 
     public static void main(String[] args){
         System.out.println("Program to intermediary.sort a list of numbers");
-        System.out.print("Enter the of the list: ");
+        System.out.print("Enter the list: ");
         String input = sc.nextLine();
 
         // Remover espaços extras e dividir a string em um array
